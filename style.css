@@ -47,3 +47,14 @@ a {
     background-color: black;
     width: 100%;
 }
+.item img {
+    width: 300px;
+    height:200px;
+    display: block;
+    margin: 10px;
+}
+.items {
+    width: 1000px;
+    align-content: center;
+    margin: auto;
+}
